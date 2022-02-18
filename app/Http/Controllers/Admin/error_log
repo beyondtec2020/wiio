@@ -1,0 +1,110 @@
+[04-Feb-2021 06:26:20 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Feb-2021 06:26:20 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/MenuController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/MenuController.php on line 13
+[04-Feb-2021 06:26:40 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Feb-2021 06:26:40 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/SeoController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/SeoController.php on line 9
+[04-Feb-2021 06:27:12 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Feb-2021 06:27:12 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/SocialController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/SocialController.php on line 9
+[04-Feb-2021 06:27:45 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Feb-2021 06:27:45 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/CityController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/CityController.php on line 12
+[04-Feb-2021 06:28:16 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Feb-2021 06:28:16 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/StaffController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/StaffController.php on line 14
+[04-Feb-2021 06:28:46 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Feb-2021 06:28:46 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/SliderController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/SliderController.php on line 13
+[04-Feb-2021 06:29:19 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Feb-2021 06:29:19 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/ClientController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/ClientController.php on line 12
+[04-Feb-2021 06:29:48 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Feb-2021 06:29:48 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/AmenityController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/AmenityController.php on line 9
+[04-Feb-2021 06:30:20 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Feb-2021 06:30:20 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/AdvertiseController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/AdvertiseController.php on line 11
+[04-Feb-2021 06:30:51 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Feb-2021 06:30:51 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/ProfileController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/ProfileController.php on line 15
+[04-Feb-2021 06:31:23 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Feb-2021 06:31:23 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/CategoryController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/CategoryController.php on line 13
+[04-Feb-2021 06:31:54 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Feb-2021 06:31:54 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/AdminPostController.php:25
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/AdminPostController.php on line 25
+[04-Feb-2021 06:32:26 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Feb-2021 06:32:26 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/SubscriberController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/SubscriberController.php on line 13
+[04-Feb-2021 06:32:57 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Feb-2021 06:32:57 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/BackgroundController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/BackgroundController.php on line 11
+[04-Feb-2021 06:33:29 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Feb-2021 06:33:29 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/ResetPasswordController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/ResetPasswordController.php on line 13
+[04-Feb-2021 06:34:02 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Feb-2021 06:34:02 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/TestimonialController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/TestimonialController.php on line 12
+[04-Feb-2021 06:34:35 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Feb-2021 06:34:35 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/ForgotPasswordController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/ForgotPasswordController.php on line 14
+[04-Feb-2021 08:49:28 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Feb-2021 08:49:28 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/CityController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/CityController.php on line 12
+[04-Feb-2021 08:51:16 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Feb-2021 08:51:16 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/AdvertiseController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/AdvertiseController.php on line 11
+[04-Feb-2021 08:52:21 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Feb-2021 08:52:21 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/SeoController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/SeoController.php on line 9
+[04-Feb-2021 08:56:45 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Feb-2021 08:56:45 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/ForgotPasswordController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/ForgotPasswordController.php on line 14
+[05-Feb-2021 10:59:10 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[05-Feb-2021 10:59:10 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/GeneralSettingController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Admin/GeneralSettingController.php on line 13

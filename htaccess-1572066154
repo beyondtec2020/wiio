@@ -1,0 +1,23 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . index.php [L]
+</IfModule>
+# Use PHP70 as default
+AddHandler application/x-httpd-php70 .php
+<IfModule mod_suphp.c>
+    suPHP_ConfigPath /opt/php70/lib
+</IfModule>
+
+
+
+# ======== COMEÇA AQUI ========
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+# ======== TERMINA AQUI ========
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>

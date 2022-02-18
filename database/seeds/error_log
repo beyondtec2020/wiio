@@ -1,0 +1,3 @@
+[17-Dec-2020 12:03:27 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home2/cliqu397/cliquesdodia.com.br/database/seeds/DatabaseSeeder.php on line 5
+[17-Dec-2020 12:04:00 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home2/cliqu397/cliquesdodia.com.br/database/seeds/RoleTableSeeder.php on line 5
+[19-Dec-2020 12:23:47 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home2/cliqu397/cliquesdodia.com.br/database/seeds/GeneralSettingTableSeeder.php on line 6

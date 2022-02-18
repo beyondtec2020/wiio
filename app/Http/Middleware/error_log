@@ -1,0 +1,60 @@
+[03-Feb-2021 07:31:16 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Feb-2021 07:31:16 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Middleware/TrimStrings.php on line 7
+[03-Feb-2021 07:31:49 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Feb-2021 07:31:49 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Middleware/TrustProxies.php on line 8
+[03-Feb-2021 07:32:08 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Feb-2021 07:32:08 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Tymon\JWTAuth\Http\Middleware\BaseMiddleware' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Middleware/JwtMiddleware.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Middleware/JwtMiddleware.php on line 9
+[03-Feb-2021 07:32:26 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Feb-2021 07:32:26 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[03-Feb-2021 07:32:44 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Feb-2021 07:33:13 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Feb-2021 07:33:13 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Middleware/EncryptCookies.php on line 7
+[03-Feb-2021 07:33:52 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Feb-2021 07:34:30 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Jun-2021 15:11:00 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Jun-2021 15:11:00 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Middleware/EncryptCookies.php on line 7
+[03-Jun-2021 15:11:52 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Jun-2021 15:11:52 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Middleware/TrustProxies.php on line 8
+[03-Jun-2021 15:12:56 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Jun-2021 15:12:56 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Tymon\JWTAuth\Http\Middleware\BaseMiddleware' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Middleware/JwtMiddleware.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Middleware/JwtMiddleware.php on line 9
+[03-Jun-2021 15:15:19 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Jun-2021 15:15:19 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[05-Jun-2021 03:54:57 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Middleware/TrimStrings.php on line 7
+[13-Sep-2021 08:42:05 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Middleware/TrustProxies.php on line 8
+[13-Sep-2021 08:46:18 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Tymon\JWTAuth\Http\Middleware\BaseMiddleware' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Middleware/JwtMiddleware.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Middleware/JwtMiddleware.php on line 9

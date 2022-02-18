@@ -1,0 +1,19 @@
+[04-Feb-2021 13:51:05 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Feb-2021 13:51:05 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home2/cliqu397/cliquesdodia.com.br/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/tests/Feature/ExampleTest.php on line 8
+[04-Feb-2021 13:55:47 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Feb-2021 13:55:47 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home2/cliqu397/cliquesdodia.com.br/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/tests/Feature/ExampleTest.php on line 8
+[19-Apr-2021 22:02:42 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[19-Apr-2021 22:02:42 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home2/cliqu397/cliquesdodia.com.br/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/tests/Feature/ExampleTest.php on line 8
+[18-Jun-2021 06:45:29 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home2/cliqu397/cliquesdodia.com.br/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/tests/Feature/ExampleTest.php on line 8

@@ -1,0 +1,23 @@
+#inner_banner .search_form {
+  display: table;
+  margin: 45px auto 0;
+  width: 1024px;
+}
+#inner_banner .search_form .form-group, 
+#intro_map .search_form .form-group {
+  width: 34%;
+  margin-right:0.5%;    
+  margin-bottom:0px;
+}
+#inner_banner .search_form .form-group.search_btn, 
+#intro_map .search_form .form-group.search_btn {
+  width: 31%;
+  margin:0;
+}
+#inner_banner .search_form  .form-control, 
+#inner_banner .search_form  form input, 
+#inner_banner .search_form  form textarea, 
+#inner_banner .search_form  form select, 
+#inner_banner .select::after, #intro_map .select::after {
+  right: 30px;
+}

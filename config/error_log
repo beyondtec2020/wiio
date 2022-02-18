@@ -1,0 +1,181 @@
+[27-Jun-2020 07:01:15 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/app.php on line 16
+[23-Jul-2020 00:40:42 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/mail.php:4
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/mail.php on line 4
+[24-Jul-2020 21:35:43 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home2/cliqu397/cliquesdodia.com.br/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/view.php on line 17
+[09-Aug-2020 14:15:54 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home2/cliqu397/cliquesdodia.com.br/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/view.php on line 17
+[28-Sep-2020 18:21:10 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/app.php on line 16
+[16-Oct-2020 19:11:55 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/queue.php on line 18
+[19-Oct-2020 06:53:20 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/cache.php on line 18
+[29-Oct-2020 19:30:54 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/database.php on line 16
+[02-Nov-2020 13:48:46 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/cache.php on line 18
+[13-Mar-2021 06:16:19 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[13-Mar-2021 06:16:19 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/database.php on line 16
+[13-Mar-2021 18:41:08 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[13-Mar-2021 18:41:08 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home2/cliqu397/cliquesdodia.com.br/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/view.php on line 17
+[13-Mar-2021 19:47:52 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[13-Mar-2021 19:47:52 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/mail.php:4
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/mail.php on line 4
+[29-Mar-2021 10:49:02 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Mar-2021 10:49:02 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/services.php on line 18
+[26-May-2021 12:02:17 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[26-May-2021 12:02:17 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/app.php on line 16
+[18-Jun-2021 18:52:34 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/broadcasting.php on line 18
+[21-Jun-2021 10:09:06 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/filesystems.php on line 16
+[28-Sep-2021 09:26:01 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home2/cliqu397/cliquesdodia.com.br/config/excel.php:57
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/excel.php on line 57
+[28-Sep-2021 09:26:02 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home2/cliqu397/cliquesdodia.com.br/config/excel.php:57
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/excel.php on line 57
+[04-Oct-2021 03:00:30 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/broadcasting.php on line 18
+[04-Oct-2021 03:00:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/broadcasting.php on line 18
+[20-Oct-2021 10:09:43 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/services.php on line 18
+[20-Oct-2021 10:10:40 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/mail.php on line 19
+[20-Oct-2021 10:19:45 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/filesystems.php on line 16
+[20-Oct-2021 10:21:15 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/app.php on line 16
+[24-Oct-2021 14:19:44 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/services.php on line 18
+[24-Oct-2021 14:22:41 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/mail.php on line 19
+[24-Oct-2021 14:52:18 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/filesystems.php on line 16
+[24-Oct-2021 14:58:13 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/app.php on line 16
+[25-Oct-2021 07:22:41 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/services.php on line 18
+[25-Oct-2021 07:25:39 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/mail.php on line 19
+[25-Oct-2021 07:55:52 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/filesystems.php on line 16
+[25-Oct-2021 08:01:47 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/app.php on line 16
+[25-Oct-2021 20:38:32 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/services.php on line 18
+[25-Oct-2021 20:40:01 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/mail.php on line 19
+[25-Oct-2021 20:54:49 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/filesystems.php on line 16
+[25-Oct-2021 20:57:26 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/app.php on line 16
+[27-Oct-2021 07:02:35 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/services.php on line 18
+[27-Oct-2021 07:06:06 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/mail.php on line 19
+[27-Oct-2021 07:36:40 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/filesystems.php on line 16
+[27-Oct-2021 07:42:23 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/app.php on line 16
+[04-Nov-2021 11:57:00 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/services.php on line 18
+[04-Nov-2021 12:01:16 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/mail.php on line 19
+[04-Nov-2021 12:43:49 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/filesystems.php on line 16
+[04-Nov-2021 12:52:20 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/cliqu397/cliquesdodia.com.br/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/config/app.php on line 16

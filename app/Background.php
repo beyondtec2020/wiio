@@ -1,0 +1,12 @@
+<?php
+
+namespace App;
+
+use Illuminate\Database\Eloquent\Model;
+
+class Background extends Model
+{
+    protected $guarded = [''];
+
+	protected $table = "backgrounds";
+}

@@ -1,0 +1,64 @@
+[03-Feb-2021 07:53:02 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Feb-2021 07:53:02 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/LoginController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/LoginController.php on line 8
+[03-Feb-2021 07:53:42 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Feb-2021 07:53:42 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/ResetPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/ResetPasswordController.php on line 8
+[03-Feb-2021 07:54:17 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Feb-2021 07:54:17 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/RegisterController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/RegisterController.php on line 10
+[03-Feb-2021 07:54:49 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Feb-2021 07:54:49 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[18-Apr-2021 10:43:00 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[18-Apr-2021 10:43:00 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/ResetPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/ResetPasswordController.php on line 8
+[18-Apr-2021 10:44:20 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[18-Apr-2021 10:44:20 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[18-Apr-2021 10:45:38 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[18-Apr-2021 10:45:38 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/LoginController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/LoginController.php on line 8
+[20-Apr-2021 16:19:40 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Apr-2021 16:19:40 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/RegisterController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/RegisterController.php on line 10
+[17-Jun-2021 10:36:33 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[17-Jun-2021 10:36:34 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/ResetPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/ResetPasswordController.php on line 8
+[17-Jun-2021 10:36:34 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/LoginController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/LoginController.php on line 8
+[17-Jun-2021 10:36:35 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/RegisterController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/RegisterController.php on line 10
+[18-Jun-2021 09:15:56 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/LoginController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/LoginController.php on line 8
+[19-Jun-2021 09:36:59 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8

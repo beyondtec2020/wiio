@@ -1,0 +1,82 @@
+[17-Dec-2020 11:50:33 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_18_114459_create_bookmarks_table.php on line 7
+[17-Dec-2020 11:50:41 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_15_103732_create_reports_table.php on line 7
+[17-Dec-2020 11:50:55 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_11_06_154725_create_menus_table.php on line 7
+[17-Dec-2020 11:51:11 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_07_115353_create_socials_table.php on line 7
+[17-Dec-2020 11:51:26 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_11_085554_create_cities_table.php on line 7
+[17-Dec-2020 11:51:41 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_11_01_102002_create_amenities_table.php on line 7
+[17-Dec-2020 11:51:56 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_08_142553_create_advertises_table.php on line 7
+[17-Dec-2020 11:52:11 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_11_06_220756_create_sliders_table.php on line 7
+[17-Dec-2020 11:52:26 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_11_113308_create_all_images_table.php on line 7
+[17-Dec-2020 11:52:42 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2014_02_09_225721_create_visitor_registry.php on line 6
+[17-Dec-2020 11:52:57 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_14_190912_create_reviews_table.php on line 7
+[17-Dec-2020 11:53:12 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_11_04_160129_create_clients_table.php on line 7
+[17-Dec-2020 11:53:27 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_06_134023_create_categories_table.php on line 7
+[17-Dec-2020 11:53:42 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_11_04_184314_create_backgrounds_table.php on line 7
+[17-Dec-2020 11:53:58 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2014_07_02_230147_migration_cartalyst_sentinel.php on line 24
+[17-Dec-2020 11:54:13 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_07_140544_create_general_settings_table.php on line 7
+[17-Dec-2020 11:54:28 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_11_01_181506_create_addlist_amenities_table.php on line 7
+[17-Dec-2020 11:54:44 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_11_081113_create_add_lists_table.php on line 7
+[17-Dec-2020 11:55:00 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_07_125449_create_subscribers_table.php on line 7
+[18-Dec-2020 00:47:59 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_08_104905_create_seos_table.php on line 7
+[19-Dec-2020 12:14:00 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_19_002935_create_testimonials_table.php on line 7
+[19-Dec-2020 12:22:48 America/Fortaleza] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[20-Aug-2021 19:39:43 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_07_115353_create_socials_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_07_115353_create_socials_table.php on line 7
+[20-Aug-2021 19:40:03 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_14_190912_create_reviews_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_14_190912_create_reviews_table.php on line 7
+[20-Aug-2021 19:40:40 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_11_04_160129_create_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_11_04_160129_create_clients_table.php on line 7
+[20-Aug-2021 19:41:16 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_11_081113_create_add_lists_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_11_081113_create_add_lists_table.php on line 7
+[20-Aug-2021 19:41:52 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_07_125449_create_subscribers_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_07_125449_create_subscribers_table.php on line 7
+[20-Aug-2021 19:42:27 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_19_002935_create_testimonials_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_19_002935_create_testimonials_table.php on line 7
+[20-Aug-2021 19:43:02 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_11_01_102002_create_amenities_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_11_01_102002_create_amenities_table.php on line 7
+[20-Aug-2021 19:43:38 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_08_142553_create_advertises_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_08_142553_create_advertises_table.php on line 7
+[20-Aug-2021 19:44:14 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_11_113308_create_all_images_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_11_113308_create_all_images_table.php on line 7
+[20-Aug-2021 19:44:50 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_11_04_184314_create_backgrounds_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_11_04_184314_create_backgrounds_table.php on line 7
+[20-Aug-2021 22:43:34 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_18_114459_create_bookmarks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_18_114459_create_bookmarks_table.php on line 7
+[21-Aug-2021 03:12:55 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_08_104905_create_seos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_08_104905_create_seos_table.php on line 7
+[21-Aug-2021 20:21:56 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2014_07_02_230147_migration_cartalyst_sentinel.php:24
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2014_07_02_230147_migration_cartalyst_sentinel.php on line 24
+[21-Aug-2021 20:23:49 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_07_140544_create_general_settings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_10_07_140544_create_general_settings_table.php on line 7
+[21-Aug-2021 20:25:55 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_11_01_181506_create_addlist_amenities_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/database/migrations/2017_11_01_181506_create_addlist_amenities_table.php on line 7

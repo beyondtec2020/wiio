@@ -1,0 +1,36 @@
+[03-Feb-2021 07:52:48 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Feb-2021 07:52:48 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/User/BookmarkController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/User/BookmarkController.php on line 21
+[03-Feb-2021 07:53:19 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Feb-2021 07:53:19 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/User/ReviewController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/User/ReviewController.php on line 10
+[03-Feb-2021 12:40:29 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Feb-2021 12:40:29 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/User/AddListController.php:25
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/User/AddListController.php on line 25
+[09-Apr-2021 20:15:30 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[09-Apr-2021 20:15:30 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/User/ReviewController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/User/ReviewController.php on line 10
+[12-Jun-2021 07:35:59 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/User/ReviewController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/User/ReviewController.php on line 10
+[02-Aug-2021 12:14:48 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/User/BookmarkController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/User/BookmarkController.php on line 21
+[04-Aug-2021 10:35:26 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/User/AddListController.php:25
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/User/AddListController.php on line 25
+[12-Aug-2021 19:36:35 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/User/ReviewController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/app/Http/Controllers/User/ReviewController.php on line 10

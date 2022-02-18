@@ -1,0 +1,4 @@
+[18-Dec-2020 22:00:21 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home2/cliqu397/cliquesdodia.com.br/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/database/factories/UserFactory.php on line 16

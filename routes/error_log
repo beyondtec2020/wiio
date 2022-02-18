@@ -1,0 +1,50 @@
+[15-Jul-2020 01:25:42 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home2/cliqu397/cliquesdodia.com.br/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/routes/channels.php on line 14
+[20-Jul-2020 01:09:46 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home2/cliqu397/cliquesdodia.com.br/routes/web.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/routes/web.php on line 13
+[22-Jul-2020 13:40:06 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home2/cliqu397/cliquesdodia.com.br/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/routes/console.php on line 16
+[24-Jul-2020 07:43:09 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home2/cliqu397/cliquesdodia.com.br/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/routes/channels.php on line 14
+[30-Jul-2020 05:37:18 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home2/cliqu397/cliquesdodia.com.br/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/routes/api.php on line 16
+[21-Aug-2020 07:46:28 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home2/cliqu397/cliquesdodia.com.br/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/routes/api.php on line 16
+[24-Aug-2020 11:04:03 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home2/cliqu397/cliquesdodia.com.br/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/routes/console.php on line 16
+[25-Aug-2020 02:41:14 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home2/cliqu397/cliquesdodia.com.br/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/routes/console.php on line 16
+[01-Oct-2020 06:14:18 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home2/cliqu397/cliquesdodia.com.br/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/routes/channels.php on line 14
+[14-May-2021 15:04:31 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[14-May-2021 15:04:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home2/cliqu397/cliquesdodia.com.br/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/routes/channels.php on line 14
+[24-May-2021 05:43:46 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-May-2021 05:43:46 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home2/cliqu397/cliquesdodia.com.br/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/routes/channels.php on line 14
+[03-Sep-2021 04:27:59 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home2/cliqu397/cliquesdodia.com.br/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/cliqu397/cliquesdodia.com.br/routes/api.php on line 16
